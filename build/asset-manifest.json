@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d3222a5b.css",
+    "main.js": "/static/js/main.15c26982.js",
+    "static/media/beach.jpg": "/static/media/beach.01b0b051354a3abbf982.jpg",
+    "static/media/brandon-romanchuk-R1Io5Eeh6sI-unsplash (3).png": "/static/media/brandon-romanchuk-R1Io5Eeh6sI-unsplash (3).25dc4a5636c6dec953cc.png",
+    "static/media/10854749.png": "/static/media/10854749.28b8baf529c6e2600ac0.png",
+    "static/media/sofa.jpg": "/static/media/sofa.ba9eb78ca9c89b66dea3.jpg",
+    "static/media/pineapple.jpg": "/static/media/pineapple.3af6bdc61507a0ba1a1c.jpg",
+    "static/media/clu-soh-oga9Xg0KVnU-unsplash.png": "/static/media/clu-soh-oga9Xg0KVnU-unsplash.becc9d21094314912b62.png",
+    "static/media/clinping.jpg": "/static/media/clinping.6d2c4bdc2ec7df1315c8.jpg",
+    "static/media/mountain.jpg": "/static/media/mountain.2bc7c4d75498b3d58f57.jpg",
+    "index.html": "/index.html",
+    "main.d3222a5b.css.map": "/static/css/main.d3222a5b.css.map",
+    "main.15c26982.js.map": "/static/js/main.15c26982.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3222a5b.css",
+    "static/js/main.15c26982.js"
+  ]
+}

@@ -1,0 +1,22 @@
+.nav-link {
+  color: #000;
+}
+.ads {
+  height: 356px;
+}
+.pagination {
+  .page-item {
+    .page-link {
+      border-radius: 50% !important;
+      color: #000;
+      background-color: #fff;
+      border: #000 2px solid;
+    }
+    &.active {
+      .page-link {
+        background-color: #dfa974 !important;
+        border: #000 2px solid;
+      }
+    }
+  }
+}

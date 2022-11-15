@@ -1,0 +1,52 @@
+.App {
+  .carousel {
+    .carousel-inner {
+      .carousel-item {
+        img {
+          height: 100vh;
+        }
+      }
+    }
+    .carousel-indicators {
+      button {
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+      }
+      .active {
+        width: 60px;
+        background-color: #dfa974;
+        border-radius: 1rem;
+      }
+    }
+  }
+  .main-card {
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 170px;
+    position: absolute;
+    z-index: 4;
+    border: none;
+    .card-text {
+      position: absolute;
+      width: 60%;
+      top: 20%;
+      left: 20%;
+      z-index: 3;
+      color: #ffffff;
+      text-align: center;
+      a {
+        text-decoration: none;
+        font-size: 28px;
+        font-weight: bold;
+        color: #ffffff;
+        border-bottom: #dfa974 solid 5px;
+      }
+      span {
+        color: #dfa974;
+      }
+    }
+  }
+}

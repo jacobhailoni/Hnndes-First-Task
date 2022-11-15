@@ -1,0 +1,57 @@
+.trips {
+  .card {
+    height: 500px;
+    .type {
+      position: absolute;
+      margin-top: 300px;
+      margin-left: 30px;
+      background-color: #dfa974;
+      color: #ffffff;
+    }
+    .title {
+      position: absolute;
+      margin-top: 350px;
+      margin-left: 30px;
+      font-size: 24px;
+      color: #ffffff;
+    }
+    .date {
+      position: absolute;
+      margin-top: 400px;
+      margin-left: 30px;
+      font-size: 28px;
+      color: #ffffff;
+    }
+  }
+  #beach {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+      url("../assets/beach.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  #climping {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+      url("../assets/clinping.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  #mountain {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+      url("../assets/mountain.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  #sofa {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+      url("../assets/sofa.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  #pineapple {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+      url("../assets/pineapple.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}

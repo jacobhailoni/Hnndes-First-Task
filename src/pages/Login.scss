@@ -1,0 +1,46 @@
+.login {
+  width: 60%;
+
+  h3 {
+    font-size: 36px;
+    font-weight: bold;
+  }
+  span {
+    text-align: start;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  .input_text {
+    width: 100%;
+    border: #707070 1px solid;
+    border-radius: 2rem;
+    height: 50px;
+    font-size: 28px;
+    color: #dfa974;
+    padding-left: 10px;
+  }
+  .input_text::placeholder {
+    color: #dfa974;
+    font-weight: bold;
+  }
+  span {
+    text-align: start !important;
+  }
+  button {
+    border-radius: 2rem;
+  }
+  .btn-outline-dark {
+    color: #dfa974;
+    font-weight: bold;
+  }
+  .btn-outline-dark:hover {
+    background-color: #dfa974;
+    color: #ffff;
+  }
+  .active {
+    .form-check-input {
+      background-color: #dfa974 !important;
+      border-color: #dfa974 !important;
+    }
+  }
+}

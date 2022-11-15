@@ -1,0 +1,23 @@
+nav {
+  .container {
+    .navbar-brand {
+      font-size: 36px;
+    }
+  }
+}
+.nav-Link {
+  color: #000000;
+  font-size: 28px;
+  padding: 0;
+}
+.nav-Link:hover {
+  border-bottom: #ff6c18 solid 2px;
+  text-decoration: none;
+  color: #000000;
+}
+.nav-Link.active {
+  border-bottom: #ff6c18 solid 2px;
+}
+button {
+  width: 200px;
+}
